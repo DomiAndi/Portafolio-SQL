@@ -10,12 +10,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![Laptop](https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white)
 
 Welcome to my personal SQL portfolio repository! Here you'll find a collection of SQL projects and queries I've worked on, showcasing my skills and expertise in database management, data analysis, and data manipulation using SQL.
    
 ## About Me
-I am a passionate data enthusiast with a strong background in SQL. Over the years, I have honed my skills in designing and optimizing databases, writing complex queries, and leveraging SQL's powerful features to extract meaningful insights from data. This portfolio serves as a testament to my proficiency in SQL and demonstrates my ability to tackle real-world data challenges. Visit [Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)
+
  
 # SQL Projects
