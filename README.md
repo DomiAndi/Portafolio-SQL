@@ -10,5 +10,6 @@
    
 ## Acerca de mí
 
+Soy una apasionada de los datos formandome en SQL. He perfeccionado mis habilidades para diseñar y optimizar bases de datos, escribir consultas y aprovechar las potentes funciones de SQL para extraer información significativa de los datos. Este portafolio sirve como testimonio de mi dominio de SQL y demuestra mi capacidad para abordar los desafíos de datos del mundo real.
  
 # SQL Proyectos
