@@ -14,4 +14,4 @@ Soy una apasionada de los datos formandome en SQL. He perfeccionado mis habilida
  
 # SQL Proyectos
 
-- [Proyecto Amazon Prime](https://github.com/DomiAndi/proyecto_amazon_prime): Exploración y análisis de datos relacionados con Amazon Prime.
+- [Proyecto Amazon Prime](https://github.com/DomiAndi/proyecto_amazon_prime): Exploración y análisis de datos relacionados con Amazon Prime sobre series y peliculas.
